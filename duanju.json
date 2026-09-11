@@ -1,6 +1,6 @@
 {
-  "spider": "./DLjar/aowu.png",
-  "wallpaper": "https://深色壁纸.xxooo.cf/",
+  "spider": "http://127.0.0.1:9978/file/DM/DM.jar",
+  "wallpaper": "",
   "lives": [
     {
       "name": "live",
@@ -14,55 +14,56 @@
   "sites": [
 
  {
-      "key": "XY短剧",
-      "name": "📡星芽🔹短剧",
+      "key": "JH",
+      "name": "📡聚合🔹直播",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/libs/drpy2.min.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DL/refs/heads/main/py/%E8%89%B2%E6%92%AD%E8%81%9A%E5%90%88.py",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/js/星芽短剧.js"
+      "changeable": 1
+     
     },
 
  {
-      "key": "QM",
-      "name": "🐱七猫🔹短剧",
+      "key": "sj",
+      "name": "🐱世界🔹直播",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
       "changeable": 1,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/libs/drpy2.min.js",
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/js/七猫短剧.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DL/refs/heads/main/py/stripchat.py"
     },
 
-{"key": "A","name": "🎲好看🔹短剧","key": "HHkk","type": 3,"api": "csp_HHkkAmns",
-  "searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1},
-
-{"key": "B","name": "♻️嗷嗚🔹漫剧", "key": "MjHggg","type": 3,"api": "csp_HgggAmns","searchable": 1,
-      "quickSearch": 1,"changeable": 1,"ext": "comic_series"},
-
-
-{"key": "C","name": "👻拜拜🔹短剧","key": "Bddj","type": 3,"api": "csp_BddjAmns",
-  "searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1},
-
-{"key": "D","name": "🐯嗷呜🔹短剧","key": "aodj","type": 3,"api": "csp_WgdjAmns",
-  "searchable": 1,"filterable": 1,"quickSearch": 1,"changeable": 1,"ext": "short_play"},
-
- { "name": "🎬星星🔹短剧","key": "XXdj","type": 3,"api": "csp_XydjAmns",
-      "searchable": 1,"quickSearch": 1,"changeable": 0,"genre": "shortdrama"},
-
-{"key": "E","name": "🥇河马🔹短剧",""key": "Hema","type": 3,"api": "csp_HemaAmns","searchable": 1,
-      "quickSearch": 1,"changeable": 0,"genre": "shortdrama"},
  {
-      "key": "G",
-      "name": "💌小酷🔹短剧",
+      "key": "黄豆",
+      "name": "🐌 黄豆🔹短剧",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/libs/drpy2.min.js",
       "searchable": 1,
       "quickSearch": 1,
+      "filterable": 1,
       "changeable": 1,
-      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DM/refs/heads/main/js/小酷短剧.js"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DL/refs/heads/main/py/黄豆短剧.py"
+    },
+ {
+      "key": "黄仓",
+      "name": "🏠黄仓🔹动态",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DL/refs/heads/main/py/黄色仓库动态版.py"
+    },
+ {
+      "key": "糯米",
+      "name": "💌小酷🔹短剧",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/ziyongdaima/DL/refs/heads/main/py/糯米短剧.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+
     }
 
 
